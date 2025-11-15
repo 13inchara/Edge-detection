@@ -1,1 +1,1 @@
-web-viewer/README.md
+https://gist.github.com/ChatGPT-EdgeDetectViewer-README/raw
